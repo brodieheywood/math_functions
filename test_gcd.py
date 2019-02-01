@@ -1,5 +1,5 @@
 from unittest import TestCase
-from comp_1510_a2 import q02
+from math_functions import q02
 
 
 class TestGcd(TestCase):
