@@ -1,5 +1,5 @@
 from unittest import TestCase
-from comp_1510_a2 import q01
+from math_functions import q01
 
 
 class TestEratosthenes(TestCase):
